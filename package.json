@@ -1,0 +1,9 @@
+{
+  "name": "akosibiko-bible-study",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AkoSiBiko Bible Baptist KJV Study Bible - static GitHub Pages edition",
+  "scripts": {
+    "prepare-data": "node scripts/prepare-data.mjs"
+  }
+}
